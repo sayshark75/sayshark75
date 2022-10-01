@@ -16,6 +16,8 @@
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayshark75&" alt="sayshark75" /></p>
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=madushadhanushka&theme=react-dark&hide_border=true&area=true)
+
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://twitter.com/@sayyed_sharuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sayyed_sharuk" height="30" width="40" /></a>

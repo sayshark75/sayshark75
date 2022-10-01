@@ -16,7 +16,8 @@
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayshark75&" alt="sayshark75" /></p>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=madushadhanushka&theme=react-dark&hide_border=true&area=true)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sayshark75)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">

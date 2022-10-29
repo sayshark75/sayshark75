@@ -16,6 +16,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayshark75&" alt="sayshark75" /></p>
 
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=sayshark75&theme=react-dark&hide_border=true&area=true"></p>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">

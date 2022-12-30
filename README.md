@@ -23,11 +23,12 @@
   <a href="https://code.visualstudio.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209446082-f641ed4d-3480-4b8b-b5ff-cdc28a93890c.svg"/></a>
   <a href="https://chakra-ui.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209447089-14d77899-1cfb-4d60-b96b-7c09d99942dd.svg"/></a></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayshark75&show_icons=true&locale=en&layout=compact" alt="sayshark75" /></p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayshark75&show_icons=true&locale=en" alt="sayshark75" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayshark75&" alt="sayshark75" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayshark75&" alt="sayshark75" /></p>
 
-<p align="left"></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayshark75&show_icons=true&locale=en" alt="sayshark75" /></p>
+
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayshark75&show_icons=true&locale=en&layout=compact" alt="sayshark75" /></p>
 
 
 <h3 align="right"> :star: Connect with me:</h3>

@@ -1,6 +1,11 @@
+
+<img width="100%" src="https://user-images.githubusercontent.com/112304655/215753289-6dbd5865-932b-4f43-b423-63f50f19cf95.png"/>
+
+
 <h1 align="left "> Hi 👋, I'm Sayyed Sharuk</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kanit&size=22&duration=3000&pause=1000&color=000000&width=435&lines=A+Full+Stack+Developer;A+eSports+Enthusiast;A+Adapting+Personality;Follows+Work+Ethics)](https://git.io/typing-svg)
+
+<img src="https://readme-typing-svg.demolab.com?font=Kanit&size=22&duration=3000&pause=1000&color=000000&width=435&lines=A+Full+Stack+Developer;A+eSports+Enthusiast;A+Adapting+Personality;Follows+Work+Ethics" alt="text"/>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sayshark75&label=Profile%20views&color=0e75b6&style=flat" alt="sayshark75" /> </p>
 

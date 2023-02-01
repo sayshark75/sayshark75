@@ -3,11 +3,21 @@
 
 
 <h1 align="left "> Hi 👋, I'm Sayyed Sharuk</h1>
+<h3 align="left">A Aspiring MERN Stack Developer From India</h3>
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Kanit&size=22&duration=3000&pause=1000&color=000000&width=435&lines=A+Full+Stack+Developer;A+eSports+Enthusiast;A+Adapting+Personality;Follows+Work+Ethics" alt="text"/>
+- 💠 Currently Learning <b> Node JS, Express JS and MongoDB</b>
+- 🤔 Ask me About <b> Advanced Javascript</b>, <b>Typescript</b>,<b>React JS</b> .
+- 🚙 Reach me on  <b>Mail : : <a style="color:red;" href="mailto:sayyedsharuk75@gmail.com">sayyedsharuk75@gmail.com</a></b>
+- 📃 Want to see <b>My Experiences : : <a href="https://drive.google.com/file/d/1JR1tvkUMpBiSejjOEKKT9B7S2XTZHtpv/view?usp=share_link">Resume</a></b>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sayshark75&label=Profile%20views&color=0e75b6&style=flat" alt="sayshark75" /> </p>
+<h3 align="left"> :star: Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/twitter.com/sayyed_sharuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/sayyed_sharuk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayshark55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayshark55" height="30" width="40" /></a>
+<a href="https://fb.com/sayshark55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayshark55" height="30" width="40" /></a>
+<a href="https://instagram.com/say_shark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="say_shark" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -37,10 +47,4 @@
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayshark75&show_icons=true&locale=en&layout=compact" alt="sayshark75" /></p>
 
 
-<h3 align="right"> :star: Connect with me:</h3>
-<p align="right">
-<a href="https://twitter.com/twitter.com/sayyed_sharuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/sayyed_sharuk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sayshark55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayshark55" height="30" width="40" /></a>
-<a href="https://fb.com/sayshark55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayshark55" height="30" width="40" /></a>
-<a href="https://instagram.com/say_shark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="say_shark" height="30" width="40" /></a>
-</p>
+

@@ -11,7 +11,8 @@
 - 📃 Want to see <b>My Experiences : : <a href="https://drive.google.com/file/d/1JR1tvkUMpBiSejjOEKKT9B7S2XTZHtpv/view?usp=share_link">Resume</a></b>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sayshark75&label=Profile%20views&color=0e75b6&style=flat" alt="sayshark75" /> </p>
-<h3 align="left"> :star: Connect with me:</h3>
+
+## :star: Connect with me:
 <p align="left">
 <a href="https://twitter.com/twitter.com/sayyed_sharuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/sayyed_sharuk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayshark55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayshark55" height="30" width="40" /></a>
@@ -19,16 +20,16 @@
 <a href="https://instagram.com/say_shark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="say_shark" height="30" width="40" /></a>
 </p>
 
-<h1 align="left "> 🌿Technical Skills</h1>
+## 🌿Technical Skills
 
-<h3 align="left"> 📚 Languages:</h3>
+### 📚 Languages:
 
 <p><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445854-4f0785bd-1cf9-4fa7-b986-f8df76d9ec71.svg"/></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445905-9066e366-7ee1-4c3c-974f-2765a621518a.svg"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445912-cebfc9c8-4e9e-48c8-a4bc-3a6fd8eeb37b.svg"/></a>
   <a href="https://www.typescriptlang.org/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445940-7f82cb2b-69e5-4099-9f65-e0dd00a6283a.svg"/></a>
   
-  <h3 align="left"> 🌸 Frameworks & Libraries:</h3>
+### 🌸 Frameworks & Libraries:
   
   <a href="https://reactjs.org/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445931-9b63ab2d-c752-40e6-a49e-4aaa54113d2b.svg"/></a>
   <a href="https://nextjs.org/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/216027451-4b2d8c2b-338d-4a41-8e6d-0fcc16d9b9a2.svg"/></a>
@@ -39,7 +40,7 @@
   <a href="https://mui.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445944-4b653f4f-9c1e-4d7e-9198-831cec2e0824.svg"/></a>
   <a href="https://chakra-ui.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209447089-14d77899-1cfb-4d60-b96b-7c09d99942dd.svg"/></a></p>
   
-  <h3 align="left"> 🎯 Database & Tools:</h3>
+### 🎯 Database & Tools:
   
   <a href="https://www.mongodb.com/home"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445995-cfdc6ab0-7053-4a99-ae0b-211a753df499.svg"/></a>
   <a href="https://git-scm.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209446039-7f330c21-3020-4259-8c6c-f5a09d794949.svg"/></a>
@@ -51,7 +52,7 @@
   <a href="https://www.arduino.cc/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/216031571-e0e4f887-cfa8-431b-8b5e-fd038c1b4314.svg"/></a>
     <a href="https://developer.android.com/studio"> <img width="35" src="https://user-images.githubusercontent.com/112304655/216032270-f862273c-dc71-4a1a-b9e2-47c5c0d28928.svg"/></a>
 
-
+## 🐧 My GitHub Statictics:
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayshark75&" alt="sayshark75" /></p>
 

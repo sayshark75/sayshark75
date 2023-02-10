@@ -3,7 +3,7 @@
 
 
 <h1 align="left "> Hi 👋, I'm Sayyed Sharuk</h1>
-<h3 align="left">A Aspiring MERN Stack Developer From India</h3>
+<h3 align="left">A Aspiring MERN Developer From India</h3>
 
 - 💠 Currently Learning <b> Node JS, Express JS and MongoDB</b>
 - 🤔 Ask me About <b> Advanced Javascript</b>, <b>Typescript</b>,<b>React JS</b> .

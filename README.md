@@ -3,7 +3,9 @@
 
 
 <h1 align="left "> Hi 👋, I'm Sayyed Sharuk</h1>
-<h3 align="left">A Aspiring MERN Developer From India</h3>
+<p align="left"> 🌟 A Aspiring Full Stack Developer who enjoys solving problems and building quality projects. With a diverse set of skills and technologies, Can develop robust and efficient products. Keep up with the latest advancements in the field, and work well with teams to deliver the best possible results.</p>
+
+
 
 - 💠 Currently Learning <b> Node JS, Express JS and MongoDB</b>
 - 🤔 Ask me About <b> Advanced Javascript</b>, <b>Typescript</b>,<b>React JS</b> .

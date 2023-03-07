@@ -3,7 +3,7 @@
 
 
 <h1 align="left "> Hi 👋, I'm Sayyed Sharuk</h1>
-<p align="left"> 🌟 A Aspiring <b>Full Stack Developer</b> who enjoys <b>solving problems</b> and building <b>quality projects</b>. With a diverse set of skills and technologies, Can <b>develop robust and efficient products.</b> Keep up with the latest advancements in the field, and <b>work well with teams</b> to deliver the best possible results.</p>
+<p align="left"> 🌟 An Aspiring <b>Full Stack Developer</b> who enjoys <b>solving problems</b> and building <b>quality projects</b>. With a diverse set of skills and technologies, Can <b>develop robust and efficient products.</b> Keep up with the latest advancements in the field, and <b>work well with teams</b> to deliver the best possible results.</p>
 
 
 

@@ -7,8 +7,8 @@
 
 
 
-- 💠 Currently Learning <b> Node JS, Express JS and MongoDB</b>
-- 🤔 Ask me About <b> Advanced Javascript</b>, <b>Typescript</b>,<b>React JS</b> .
+- 💠 Currently improving my skills in<b> React, JavaScript, HTML, CSS, TypeScript, Node.js, Express.js, </b>and<b> MongoDB. </b>
+- 🤔 Ask me About <b> Advanced Javascript</b>, <b>Typescript</b>, <b>React JS</b> .
 - 🚙 Reach me on  <b>Mail : : <a style="color:red;" href="mailto:sayyedsharuk75@gmail.com">sayyedsharuk75@gmail.com</a></b>
 - 📃 Want to see <b>My Experiences : : <a href="https://drive.google.com/file/d/1JR1tvkUMpBiSejjOEKKT9B7S2XTZHtpv/view?usp=share_link">Resume</a></b>
 

@@ -56,12 +56,10 @@
 
 ## 🐧 My GitHub Statictics:
 
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayshark75&" alt="sayshark75" /></p>
+<p width="100%" align="left"><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayshark75&" alt="sayshark75" /></p>
 
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayshark75&show_icons=true&locale=en" alt="sayshark75" /></p>
+<p width="100%" align="left"><img width="50%" align="center" src="https://github-readme-stats-git-master-sayshark75.vercel.app/api?username=sayshark75&show_icons=true&locale=en" alt="sayshark75" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayshark75&show_icons=true&locale=en&layout=compact" alt="sayshark75" /></p>
-
-
+<p width="100%" align="left"><img width="50%" align="center" src="https://github-readme-stats-git-master-sayshark75.vercel.app/api/top-langs?username=sayshark75&show_icons=true&locale=en&layout=compact" alt="sayshark75" /></p>
 

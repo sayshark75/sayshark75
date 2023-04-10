@@ -25,36 +25,44 @@
 
 ## 🌿Technical Skills
 
-### 📚 Languages:
+### 📚 Markup and Languages:
 
-<p><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445854-4f0785bd-1cf9-4fa7-b986-f8df76d9ec71.svg"/></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445905-9066e366-7ee1-4c3c-974f-2765a621518a.svg"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445912-cebfc9c8-4e9e-48c8-a4bc-3a6fd8eeb37b.svg"/></a>
-  <a href="https://www.typescriptlang.org/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445940-7f82cb2b-69e5-4099-9f65-e0dd00a6283a.svg"/></a>
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+  <a href="https://www.typescriptlang.org/"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
   
 ### 🌸 Frameworks & Libraries:
   
-  <a href="https://reactjs.org/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445931-9b63ab2d-c752-40e6-a49e-4aaa54113d2b.svg"/></a>
-  <a href="https://nextjs.org/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/216027451-4b2d8c2b-338d-4a41-8e6d-0fcc16d9b9a2.svg"/></a>
-  <a href="https://vitejs.dev/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/216028643-ea48ac65-ba15-43c4-8999-31dfb660ebae.svg"/></a>
-  <a href="https://nodejs.org/en/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445986-290b2b16-0728-4697-9596-bc4c964ab47c.svg"/></a>
-  <a href="https://expressjs.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445988-e24ead22-e7f5-42d3-be49-5dc217e4236c.svg"/></a>
-  <a href="https://getbootstrap.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209446018-418877e5-ddcc-4a64-918b-9c922a3397f3.svg"/></a>
-  <a href="https://mui.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445944-4b653f4f-9c1e-4d7e-9198-831cec2e0824.svg"/></a>
-  <a href="https://chakra-ui.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209447089-14d77899-1cfb-4d60-b96b-7c09d99942dd.svg"/></a></p>
+  <a href="https://reactjs.org/"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
+  <a href="https://nextjs.org/"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/></a>
+  <a href="https://vitejs.dev/"> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/></a>
+  <a href="https://nodejs.org/en/"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="https://expressjs.com/"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/></a>
+  <a href="https://getbootstrap.com/"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+  <a href="https://mui.com/"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/></a>
+  <a href="https://tailwindcss.com/"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+  <a href="https://chakra-ui.com/"> <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/></a></p>
   
 ### 🎯 Database & Tools:
   
-  <a href="https://www.mongodb.com/home"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445995-cfdc6ab0-7053-4a99-ae0b-211a753df499.svg"/></a>
-  <a href="https://git-scm.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209446039-7f330c21-3020-4259-8c6c-f5a09d794949.svg"/></a>
-  <a href="https://devcenter.heroku.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209445955-a0451d06-9a75-477b-a6ca-ead0d5f4780b.svg"/></a>
-  <a href="https://www.npmjs.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209446056-f6fa3b7e-c294-4628-8f53-55b36e3bdc7f.svg"/></a>
-  <a href="https://code.visualstudio.com/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/209446082-f641ed4d-3480-4b8b-b5ff-cdc28a93890c.svg"/></a>
-  <a href="https://www.coreldraw.com/en/"> <img width="25" src="https://user-images.githubusercontent.com/112304655/216030299-d7a2d449-de30-4245-96a6-ecebb82eeb62.svg"/></a>
-  <a href="https://www.adobe.com/in/products/photoshop.html"> <img width="35" src="https://user-images.githubusercontent.com/112304655/216031129-6cc62816-974f-458c-b3fc-96a96f56dd0a.svg"/></a>
-  <a href="https://www.arduino.cc/"> <img width="35" src="https://user-images.githubusercontent.com/112304655/216031571-e0e4f887-cfa8-431b-8b5e-fd038c1b4314.svg"/></a>
-    <a href="https://developer.android.com/studio"> <img width="35" src="https://user-images.githubusercontent.com/112304655/216032270-f862273c-dc71-4a1a-b9e2-47c5c0d28928.svg"/></a>
+  <a href="https://www.mongodb.com/home"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+  <a href="https://firebase.google.com/"> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/></a>
+  <a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://www.npmjs.com/"> <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/></a>
+  <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <a href="https://www.adobe.com/in/products/photoshop.html"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></a>
+  <a href="https://www.arduino.cc/"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
+  
+  
+  ### 🚀 Deployment Tools:
 
+  <a href="https://devcenter.heroku.com/"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
+    <a href="https://render.com/"> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/></a>
+    <a href="https://vercel.com/"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    <a href="https://www.netlify.com/"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/></a>
+    <a href="https://pages.github.com/"> <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
+  
 ## 🐧 My GitHub Statictics:
 
 <p width="100%" align="left"><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayshark75&" alt="sayshark75" /></p>

@@ -65,10 +65,10 @@
   
 ## 🐧 My GitHub Statictics:
 
-<p width="100%" align="left"><img width="330px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayshark75&" alt="sayshark75" /></p>
+<p width="100%" align="left"><img width="440px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayshark75&" alt="sayshark75" /></p>
 
 
-<p width="100%" align="left"><img width="330px" align="center" src="https://github-readme-stats-git-master-sayshark75.vercel.app/api?username=sayshark75&show_icons=true&locale=en" alt="sayshark75" /></p>
+<p width="100%" align="left"><img width="440px" align="center" src="https://github-readme-stats-git-master-sayshark75.vercel.app/api?username=sayshark75&show_icons=true&locale=en" alt="sayshark75" /></p>
 
-<p width="100%" align="left"><img width="330px" align="center" src="https://github-readme-stats-git-master-sayshark75.vercel.app/api/top-langs?username=sayshark75&show_icons=true&locale=en&layout=compact" alt="sayshark75" /></p>
+<p width="100%" align="left"><img width="440px" align="center" src="https://github-readme-stats-git-master-sayshark75.vercel.app/api/top-langs?username=sayshark75&show_icons=true&locale=en&layout=compact" alt="sayshark75" /></p>
 

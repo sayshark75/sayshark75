@@ -63,7 +63,7 @@
     <a href="https://www.netlify.com/"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/></a>
     <a href="https://pages.github.com/"> <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
   
-## 🐧 My GitHub Statictics:
+## 🐧 My GitHub Statistics:
 
 <p width="100%" align="left"><img width="440px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayshark75&" alt="sayshark75" /></p>
 

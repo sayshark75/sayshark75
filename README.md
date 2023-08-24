@@ -39,11 +39,12 @@
   <a href="https://vitejs.dev/"> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/></a>
   <a href="https://nodejs.org/en/"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a>
   <a href="https://expressjs.com/"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/></a>
+  <a href="https://sass-lang.com/"> <img src="https://img.shields.io/badge/-Sass-C10ABE?style=for-the-badge&logo=Sass&logoColor=white"/></a>
   <a href="https://getbootstrap.com/"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
   <a href="https://mui.com/"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/></a>
   <a href="https://tailwindcss.com/"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
   <a href="https://chakra-ui.com/"> <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/></a></p>
-  <a href="https://sass-lang.com/"> <img src="https://img.shields.io/badge/-Sass-C10ABE?style=for-the-badge&logo=Sass&logoColor=white"/></a>
+ 
   
 ### 🎯 Database & Tools:
   

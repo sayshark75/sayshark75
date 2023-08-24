@@ -43,6 +43,7 @@
   <a href="https://mui.com/"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/></a>
   <a href="https://tailwindcss.com/"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
   <a href="https://chakra-ui.com/"> <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/></a></p>
+  <a href="https://sass-lang.com/"> <img src="https://img.shields.io/badge/-Sass-C10ABE?style=for-the-badge&logo=Sass&logoColor=white"/></a>
   
 ### 🎯 Database & Tools:
   
@@ -53,6 +54,7 @@
   <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
   <a href="https://www.adobe.com/in/products/photoshop.html"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></a>
   <a href="https://www.arduino.cc/"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
+  
   
   
   ### 🚀 Deployment Tools:

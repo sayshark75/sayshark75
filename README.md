@@ -15,7 +15,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sayshark75&label=Profile%20views&color=0e75b6&style=flat" alt="sayshark75" /> </p>
 
-## :star: Connect with me:
+## 🍰 Connect with me:
 <p align="left">
 <a href="https://twitter.com/twitter.com/sayyed_sharuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com/sayyed_sharuk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sayshark55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayshark55" height="30" width="40" /></a>
@@ -23,7 +23,7 @@
 <a href="https://instagram.com/say_shark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="say_shark" height="30" width="40" /></a>
 </p>
 
-## 🌿Technical Skills
+## 🌿 Technical Skills
 
 ### 📚 Markup and Languages:
 
@@ -44,12 +44,14 @@
   <a href="https://mui.com/"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/></a>
   <a href="https://tailwindcss.com/"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
   <a href="https://chakra-ui.com/"> <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/></a></p>
+  
  
   
 ### 🎯 Database & Tools:
   
   <a href="https://www.mongodb.com/home"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
   <a href="https://firebase.google.com/"> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/></a>
+  <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/-MYSQL-informational?logo=mysql&style=for-the-badge&logoColor=ffffff&color=251f75&labelColor=242970"/></a></p>
   <a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
   <a href="https://www.npmjs.com/"> <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/></a>
   <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
@@ -65,6 +67,10 @@
     <a href="https://vercel.com/"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
     <a href="https://www.netlify.com/"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/></a>
     <a href="https://pages.github.com/"> <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+  ### 🔷 CMS (Content Management System):
+     <a href="https://www.shopify.com/in"> <img src="https://img.shields.io/badge/-Shopify-informational?logo=shopify&style=for-the-badge&logoColor=1c7d1e&color=1e6119&labelColor=ffffff"/></a>
+  
   
 ## 🐧 My GitHub Statistics:
 

@@ -69,8 +69,8 @@
     <a href="https://pages.github.com/"> <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
 
   ### 🔷 CMS (Content Management System):
-  
-     <a href="https://www.shopify.com/in"> <img src="https://img.shields.io/badge/-Shopify-informational?logo=shopify&style=for-the-badge&logoColor=1c7d1e&color=1e6119&labelColor=ffffff"/></a>
+
+  <a href="https://www.shopify.com/in"> <img src="https://img.shields.io/badge/-Shopify-informational?logo=shopify&style=for-the-badge&logoColor=1c7d1e&color=1e6119&labelColor=ffffff"/></a>
   
   
 ## 🐧 My GitHub Statistics:

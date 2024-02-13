@@ -67,6 +67,8 @@
     <a href="https://vercel.com/"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
     <a href="https://www.netlify.com/"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/></a>
     <a href="https://pages.github.com/"> <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://aws.amazon.com/free"> <img src="https://img.shields.io/badge/EC2-Amazon-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=orange"/></a>
+    <a href="https://aws.amazon.com/free"> <img src="https://img.shields.io/badge/S3-Amazon-%23FF9900.svg?style=for-the-badge&logo=amazones3&logoColor=orange"/></a>
 
   ### 🔷 CMS (Content Management System):
 

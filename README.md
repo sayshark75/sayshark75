@@ -62,8 +62,9 @@
   
   ### 🚀 Deployment Tools:
 
-  <a href="https://aws.amazon.com/free"> <img src="https://img.shields.io/badge/EC2-Amazon-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=orange"/></a>
-    <a href="https://aws.amazon.com/free"> <img src="https://img.shields.io/badge/S3-Amazon-%23FF9900.svg?style=for-the-badge&logo=amazons3&logoColor=orange"/></a>
+  <a href="https://aws.amazon.com/free"> <img src="https://img.shields.io/badge/EC2-Amazon-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white"/></a>
+    <a href="https://aws.amazon.com/free"> <img src="https://img.shields.io/badge/S3-Amazon-%23FF9900.svg?style=for-the-badge&logo=amazons3&logoColor=white"/></a>
+    <a href="https://www.docker.com/"> <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
   <a href="https://devcenter.heroku.com/"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
     <a href="https://render.com/"> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/></a>
     <a href="https://vercel.com/"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>

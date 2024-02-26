@@ -75,6 +75,7 @@
   ### 🔷 CMS (Content Management System):
 
   <a href="https://www.shopify.com/in"> <img src="https://img.shields.io/badge/-Shopify-informational?logo=shopify&style=for-the-badge&logoColor=1c7d1e&color=1e6119&labelColor=ffffff"/></a>
+  <a href="https://strapi.io/"> <img src="https://img.shields.io/badge/Strapi-%234945FF.svg?style=for-the-badge&logo=strapi&logoColor=white"/></a>
   
   
 ## 🐧 My GitHub Statistics:

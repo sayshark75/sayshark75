@@ -44,6 +44,7 @@
   <a href="https://mui.com/"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/></a>
   <a href="https://tailwindcss.com/"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
   <a href="https://chakra-ui.com/"> <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/></a></p>
+  <a href="https://www.framer.com/motion/"> <img src="https://img.shields.io/badge/framer_motion-%23323330.svg?style=for-the-badge&logo=framer&logoColor=%23F7DF1E%22"/></a></p>
   
  
   

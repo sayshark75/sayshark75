@@ -36,6 +36,7 @@
 ### 🌸 Frameworks & Libraries:
   
   <a href="https://reactjs.org/"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
+  <a href="https://redux.js.org/"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/></a>
   <a href="https://nextjs.org/"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/></a>
   <a href="https://vitejs.dev/"> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/></a>
   <a href="https://nodejs.org/en/"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a>
@@ -49,23 +50,23 @@
   
  
   
-### 🎯 Database & Tools:
+### 🎯 Databases:
   
   <a href="https://www.mongodb.com/home"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
   <a href="https://firebase.google.com/"> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/></a>
   <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/-MYSQL-informational?logo=mysql&style=for-the-badge&logoColor=ffffff&color=251f75&labelColor=242970"/></a></p>
+
+### 🔷 Other Tools
   <a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
   <a href="https://www.npmjs.com/"> <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/></a>
+  <a href="https://yarnpkg.com/"> <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"/></a>
   <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
   <a href="https://www.adobe.com/in/products/photoshop.html"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></a>
   <a href="https://www.arduino.cc/"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
   
-  
-  
   ### 🚀 Deployment Tools:
-
-  <a href="https://aws.amazon.com/free"> <img src="https://img.shields.io/badge/EC2-Amazon-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white"/></a>
-    <a href="https://aws.amazon.com/free"> <img src="https://img.shields.io/badge/S3-Amazon-%23FF9900.svg?style=for-the-badge&logo=amazons3&logoColor=white"/></a>
+  
+<a href="https://drive.google.com/file/d/1_qfm-mVVjbOihu-zullE7756OFeLUSG3/view"> <img src="https://img.shields.io/badge/AWS-Essentials-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
     <a href="https://www.docker.com/"> <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
   <a href="https://devcenter.heroku.com/"> <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/></a>
     <a href="https://render.com/"> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/></a>

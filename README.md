@@ -68,6 +68,7 @@
   <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
   <a href="https://www.adobe.com/in/products/photoshop.html"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/></a>
   <a href="https://www.arduino.cc/"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/></a>
+  <a href="https://www.postman.com/"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
   
   ### 🚀 Deployment Tools:
   
@@ -84,6 +85,12 @@
 
   <a href="https://www.shopify.com/in"> <img src="https://img.shields.io/badge/-Shopify-informational?logo=shopify&style=for-the-badge&logoColor=1c7d1e&color=1e6119&labelColor=ffffff"/></a>
   <a href="https://strapi.io/"> <img src="https://img.shields.io/badge/Strapi-%234945FF.svg?style=for-the-badge&logo=strapi&logoColor=white"/></a>
+
+  ### 🔮 AI Tools
+  <a href="https://chatgpt.com/"> <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
+  <a href="https://elevenlabs.io/"> <img src="https://img.shields.io/badge/ElevenLabs-f4f4f4?style=for-the-badge&logo=elevenlabs&logoColor=white"/></a>
+  <a href="https://www.adobe.com/in/express/feature/image/editor"> <img src="https://img.shields.io/badge/adobe-express-fb0f00?style=for-the-badge&logo=adobe&logoColor=white"/></a>
+
   
   
 ## 🐧 My GitHub Statistics:

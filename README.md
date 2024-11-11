@@ -27,7 +27,7 @@
 
 ### 📚 Markup and Languages:
 
-<p><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
   <a href="https://www.typescriptlang.org/"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
@@ -45,8 +45,9 @@
   <a href="https://getbootstrap.com/"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
   <a href="https://mui.com/"> <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/></a>
   <a href="https://tailwindcss.com/"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
-  <a href="https://chakra-ui.com/"> <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/></a></p>
-  <a href="https://www.framer.com/motion/"> <img src="https://img.shields.io/badge/framer_motion-%23323330.svg?style=for-the-badge&logo=framer&logoColor=%23F7DF1E%22"/></a></p>
+  <a href="https://chakra-ui.com/"> <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white"/></a>
+  <a href="https://www.framer.com/motion/"> <img src="https://img.shields.io/badge/framer_motion-%23323330.svg?style=for-the-badge&logo=framer&logoColor=%23F7DF1E%22"/></a>
+  <a href="https://api.jquery.com/"> <img src="https://img.shields.io/badge/JQuery-%230669ad.svg?style=for-the-badge&logo=jquery&logoColor=white"/></a>
   
  
   

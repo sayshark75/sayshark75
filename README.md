@@ -56,6 +56,10 @@
   <a href="https://firebase.google.com/"> <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/></a>
   <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/-MYSQL-informational?logo=mysql&style=for-the-badge&logoColor=ffffff&color=251f75&labelColor=242970"/></a></p>
 
+### 🎆 Object Relational Mappers
+<a href="https://www.prisma.io/dataguide"> <img src="https://img.shields.io/badge/Prisma-%234647a1.svg?style=for-the-badge&logo=prisma&logoColor=white"/></a>
+<a href="https://mongoosejs.com/docs/"> <img src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white"/></a>
+
 ### 🔷 Other Tools
   <a href="https://git-scm.com/"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
   <a href="https://www.npmjs.com/"> <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/></a>
